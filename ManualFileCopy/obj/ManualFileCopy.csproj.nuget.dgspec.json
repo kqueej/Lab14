@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Programming\\C#\\Lab14\\ManualFileCopy\\ManualFileCopy.csproj": {}
+    "g:\\Programming\\C#\\Lab14\\ManualFileCopy\\ManualFileCopy.csproj": {}
   },
   "projects": {
-    "G:\\Programming\\C#\\Lab14\\ManualFileCopy\\ManualFileCopy.csproj": {
+    "g:\\Programming\\C#\\Lab14\\ManualFileCopy\\ManualFileCopy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Programming\\C#\\Lab14\\ManualFileCopy\\ManualFileCopy.csproj",
+        "projectUniqueName": "g:\\Programming\\C#\\Lab14\\ManualFileCopy\\ManualFileCopy.csproj",
         "projectName": "ManualFileCopy",
-        "projectPath": "G:\\Programming\\C#\\Lab14\\ManualFileCopy\\ManualFileCopy.csproj",
+        "projectPath": "g:\\Programming\\C#\\Lab14\\ManualFileCopy\\ManualFileCopy.csproj",
         "packagesPath": "C:\\Users\\Not Sure\\.nuget\\packages\\",
-        "outputPath": "G:\\Programming\\C#\\Lab14\\ManualFileCopy\\obj\\",
+        "outputPath": "g:\\Programming\\C#\\Lab14\\ManualFileCopy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Not Sure\\AppData\\Roaming\\NuGet\\NuGet.Config"
