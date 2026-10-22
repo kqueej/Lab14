@@ -34,27 +34,51 @@
 //     Console.WriteLine($"- {student}");
 // }
 
-Console.WriteLine();
-Console.WriteLine("=== StreamWriter ===");
+// Console.WriteLine();
+// Console.WriteLine("=== StreamWriter ===");
 
-using (StreamWriter writer = new StreamWriter("log.txt"))
-{
-    writer.WriteLine("Программа запущена");
-    writer.WriteLine($"Дата: {DateTime.Now:dd.MM.yyyy HH:mm}");
-    writer.WriteLine("Операция выполнена успешно");
-}
+// using (StreamWriter writer = new StreamWriter("log.txt"))
+// {
+//     writer.WriteLine("Программа запущена");
+//     writer.WriteLine($"Дата: {DateTime.Now:dd.MM.yyyy HH:mm}");
+//     writer.WriteLine("Операция выполнена успешно");
+// }
 
-Console.WriteLine("Файл log.txt записан");
-Console.WriteLine();
-Console.WriteLine("=== StreamReader ===");
+// Console.WriteLine("Файл log.txt записан");
+// Console.WriteLine();
+// Console.WriteLine("=== StreamReader ===");
 
-using (StreamReader reader = new StreamReader("log.txt"))
-{
-    string line;
-    int lineNumber = 1;
-    while ((line = reader.ReadLine()) != null)
-    {
-        Console.WriteLine($"Строка {lineNumber}: {line}");
-        lineNumber++;
-    }
-}
+// using (StreamReader reader = new StreamReader("log.txt"))
+// {
+//     string line;
+//     int lineNumber = 1;
+//     while ((line = reader.ReadLine()) != null)
+//     {
+//         Console.WriteLine($"Строка {lineNumber}: {line}");
+//         lineNumber++;
+//     }
+// }
+
+// Console.WriteLine();
+// Console.WriteLine("=== Обработка ошибок ===");
+
+// try
+// {
+//     string content = File.ReadAllText("несуществующий_файл.txt");
+//     Console.WriteLine(content);
+// }
+// catch (FileNotFoundException ex)
+// {
+//     Console.WriteLine($"Файл не найден: {ex.Message}");
+// }
+// Console.WriteLine();
+// Console.WriteLine("=== Path.Combine ===");
+
+// string folderPath = "data";
+// Directory.CreateDirectory(folderPath);
+
+// string filePath = Path.Combine(folderPath, "report.txt");
+// File.WriteAllText(filePath, "Отчёт находится в подпапке data");
+
+// Console.WriteLine($"Путь к файлу: {filePath}");
+// Console.WriteLine(File.ReadAllText(filePath));
