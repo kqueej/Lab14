@@ -1,0 +1,15 @@
+G:\Programming\C#\Lab14\AttendanceLog\bin\Debug\net10.0\AttendanceLog.exe
+G:\Programming\C#\Lab14\AttendanceLog\bin\Debug\net10.0\AttendanceLog.deps.json
+G:\Programming\C#\Lab14\AttendanceLog\bin\Debug\net10.0\AttendanceLog.runtimeconfig.json
+G:\Programming\C#\Lab14\AttendanceLog\bin\Debug\net10.0\AttendanceLog.dll
+G:\Programming\C#\Lab14\AttendanceLog\bin\Debug\net10.0\AttendanceLog.pdb
+G:\Programming\C#\Lab14\AttendanceLog\obj\Debug\net10.0\AttendanceLog.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\C#\Lab14\AttendanceLog\obj\Debug\net10.0\AttendanceLog.AssemblyInfoInputs.cache
+G:\Programming\C#\Lab14\AttendanceLog\obj\Debug\net10.0\AttendanceLog.AssemblyInfo.cs
+G:\Programming\C#\Lab14\AttendanceLog\obj\Debug\net10.0\AttendanceLog.csproj.CoreCompileInputs.cache
+G:\Programming\C#\Lab14\AttendanceLog\obj\Debug\net10.0\AttendanceLog.sourcelink.json
+G:\Programming\C#\Lab14\AttendanceLog\obj\Debug\net10.0\AttendanceLog.dll
+G:\Programming\C#\Lab14\AttendanceLog\obj\Debug\net10.0\refint\AttendanceLog.dll
+G:\Programming\C#\Lab14\AttendanceLog\obj\Debug\net10.0\AttendanceLog.pdb
+G:\Programming\C#\Lab14\AttendanceLog\obj\Debug\net10.0\AttendanceLog.genruntimeconfig.cache
+G:\Programming\C#\Lab14\AttendanceLog\obj\Debug\net10.0\ref\AttendanceLog.dll
