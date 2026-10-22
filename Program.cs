@@ -21,15 +21,40 @@
 // Console.WriteLine($"unknown.txt существует: {File.Exists("unknown.txt")}");
 
 
+// Console.WriteLine();
+// Console.WriteLine("=== WriteAllLines / ReadAllLines ===");
+
+// string[] students = { "Иванов", "Петрова", "Сидоров" };
+// File.WriteAllLines("students.txt", students);
+
+// string[] readStudents = File.ReadAllLines("students.txt");
+// Console.WriteLine($"Прочитано строк: {readStudents.Length}");
+// foreach (string student in readStudents)
+// {
+//     Console.WriteLine($"- {student}");
+// }
+
 Console.WriteLine();
-Console.WriteLine("=== WriteAllLines / ReadAllLines ===");
+Console.WriteLine("=== StreamWriter ===");
 
-string[] students = { "Иванов", "Петрова", "Сидоров" };
-File.WriteAllLines("students.txt", students);
-
-string[] readStudents = File.ReadAllLines("students.txt");
-Console.WriteLine($"Прочитано строк: {readStudents.Length}");
-foreach (string student in readStudents)
+using (StreamWriter writer = new StreamWriter("log.txt"))
 {
-    Console.WriteLine($"- {student}");
+    writer.WriteLine("Программа запущена");
+    writer.WriteLine($"Дата: {DateTime.Now:dd.MM.yyyy HH:mm}");
+    writer.WriteLine("Операция выполнена успешно");
+}
+
+Console.WriteLine("Файл log.txt записан");
+Console.WriteLine();
+Console.WriteLine("=== StreamReader ===");
+
+using (StreamReader reader = new StreamReader("log.txt"))
+{
+    string line;
+    int lineNumber = 1;
+    while ((line = reader.ReadLine()) != null)
+    {
+        Console.WriteLine($"Строка {lineNumber}: {line}");
+        lineNumber++;
+    }
 }
