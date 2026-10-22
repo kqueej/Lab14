@@ -1,0 +1,15 @@
+G:\Programming\C#\Lab14\ManualFileCopy\bin\Debug\net10.0\ManualFileCopy.exe
+G:\Programming\C#\Lab14\ManualFileCopy\bin\Debug\net10.0\ManualFileCopy.deps.json
+G:\Programming\C#\Lab14\ManualFileCopy\bin\Debug\net10.0\ManualFileCopy.runtimeconfig.json
+G:\Programming\C#\Lab14\ManualFileCopy\bin\Debug\net10.0\ManualFileCopy.dll
+G:\Programming\C#\Lab14\ManualFileCopy\bin\Debug\net10.0\ManualFileCopy.pdb
+G:\Programming\C#\Lab14\ManualFileCopy\obj\Debug\net10.0\ManualFileCopy.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\C#\Lab14\ManualFileCopy\obj\Debug\net10.0\ManualFileCopy.AssemblyInfoInputs.cache
+G:\Programming\C#\Lab14\ManualFileCopy\obj\Debug\net10.0\ManualFileCopy.AssemblyInfo.cs
+G:\Programming\C#\Lab14\ManualFileCopy\obj\Debug\net10.0\ManualFileCopy.csproj.CoreCompileInputs.cache
+G:\Programming\C#\Lab14\ManualFileCopy\obj\Debug\net10.0\ManualFileCopy.sourcelink.json
+G:\Programming\C#\Lab14\ManualFileCopy\obj\Debug\net10.0\ManualFileCopy.dll
+G:\Programming\C#\Lab14\ManualFileCopy\obj\Debug\net10.0\refint\ManualFileCopy.dll
+G:\Programming\C#\Lab14\ManualFileCopy\obj\Debug\net10.0\ManualFileCopy.pdb
+G:\Programming\C#\Lab14\ManualFileCopy\obj\Debug\net10.0\ManualFileCopy.genruntimeconfig.cache
+G:\Programming\C#\Lab14\ManualFileCopy\obj\Debug\net10.0\ref\ManualFileCopy.dll

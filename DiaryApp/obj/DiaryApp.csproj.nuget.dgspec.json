@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Programming\\C#\\Lab14\\DiaryApp\\DiaryApp.csproj": {}
+    "g:\\Programming\\C#\\Lab14\\DiaryApp\\DiaryApp.csproj": {}
   },
   "projects": {
-    "G:\\Programming\\C#\\Lab14\\DiaryApp\\DiaryApp.csproj": {
+    "g:\\Programming\\C#\\Lab14\\DiaryApp\\DiaryApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Programming\\C#\\Lab14\\DiaryApp\\DiaryApp.csproj",
+        "projectUniqueName": "g:\\Programming\\C#\\Lab14\\DiaryApp\\DiaryApp.csproj",
         "projectName": "DiaryApp",
-        "projectPath": "G:\\Programming\\C#\\Lab14\\DiaryApp\\DiaryApp.csproj",
+        "projectPath": "g:\\Programming\\C#\\Lab14\\DiaryApp\\DiaryApp.csproj",
         "packagesPath": "C:\\Users\\Not Sure\\.nuget\\packages\\",
-        "outputPath": "G:\\Programming\\C#\\Lab14\\DiaryApp\\obj\\",
+        "outputPath": "g:\\Programming\\C#\\Lab14\\DiaryApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Not Sure\\AppData\\Roaming\\NuGet\\NuGet.Config"
