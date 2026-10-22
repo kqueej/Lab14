@@ -82,3 +82,15 @@
 
 // Console.WriteLine($"Путь к файлу: {filePath}");
 // Console.WriteLine(File.ReadAllText(filePath));
+Console.WriteLine("=== Подсчёт строк и слов ===");
+
+string[] notesLines = File.ReadAllLines("notes.txt");
+int wordCount = 0;
+
+foreach (string noteLine in notesLines)
+{
+    wordCount += noteLine.Split(' ').Length;
+}
+
+Console.WriteLine($"Количество строк: {notesLines.Length}");
+Console.WriteLine($"Количество слов: {wordCount}");
