@@ -1,0 +1,14 @@
+G:\Programming\C#\Lab14\DiaryApp\bin\Debug\net10.0\DiaryApp.exe
+G:\Programming\C#\Lab14\DiaryApp\bin\Debug\net10.0\DiaryApp.deps.json
+G:\Programming\C#\Lab14\DiaryApp\bin\Debug\net10.0\DiaryApp.runtimeconfig.json
+G:\Programming\C#\Lab14\DiaryApp\bin\Debug\net10.0\DiaryApp.dll
+G:\Programming\C#\Lab14\DiaryApp\bin\Debug\net10.0\DiaryApp.pdb
+G:\Programming\C#\Lab14\DiaryApp\obj\Debug\net10.0\DiaryApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\C#\Lab14\DiaryApp\obj\Debug\net10.0\DiaryApp.AssemblyInfoInputs.cache
+G:\Programming\C#\Lab14\DiaryApp\obj\Debug\net10.0\DiaryApp.AssemblyInfo.cs
+G:\Programming\C#\Lab14\DiaryApp\obj\Debug\net10.0\DiaryApp.csproj.CoreCompileInputs.cache
+G:\Programming\C#\Lab14\DiaryApp\obj\Debug\net10.0\DiaryApp.dll
+G:\Programming\C#\Lab14\DiaryApp\obj\Debug\net10.0\refint\DiaryApp.dll
+G:\Programming\C#\Lab14\DiaryApp\obj\Debug\net10.0\DiaryApp.pdb
+G:\Programming\C#\Lab14\DiaryApp\obj\Debug\net10.0\DiaryApp.genruntimeconfig.cache
+G:\Programming\C#\Lab14\DiaryApp\obj\Debug\net10.0\ref\DiaryApp.dll
